@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "note": "Synthetic documentation examples; not loaded by the app.",
+  "records": [
+    {
+      "id": "asset-1",
+      "title": "Design export",
+      "version": "1.0",
+      "location": "./assets/design.zip"
+    },
+    {
+      "id": "asset-2",
+      "title": "API schema",
+      "version": "2",
+      "location": "https://example.org/schema.json"
+    }
+  ]
+}
