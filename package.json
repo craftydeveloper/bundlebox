@@ -1,0 +1,11 @@
+{
+  "name": "bundlebox",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "A catalog for project files and assets with versions, locations, and handoff notes; it does not upload the files.",
+  "scripts": {
+    "test": "node --test",
+    "validate": "node scripts/validate-static-app.mjs"
+  }
+}
